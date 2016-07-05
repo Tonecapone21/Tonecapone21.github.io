@@ -1,0 +1,46 @@
+body{
+	background: gold;
+	width: 500px;
+}
+h1{
+	color: black;
+	position: fixed;
+	top: 5%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+header{
+	color: black;
+	font-weight: 900;
+	position: fixed;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+ul{
+	color: black;
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+p{
+	color: black;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+a{
+	border: dotted;
+	color: black;
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}

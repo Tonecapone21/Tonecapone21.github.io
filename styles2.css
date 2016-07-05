@@ -1,0 +1,74 @@
+html{
+	height: 100%;
+	
+
+}
+
+body{
+	background: gold;
+	overflow: scroll;	
+	}
+h1{
+	font: georgia;
+	color: black;
+	position: fixed;
+	top: 0%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+img{
+	margin: .5%;
+	padding: 50px;
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+
+}
+
+.p1{
+	color: black;
+	position: fixed;
+	top: 75%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	}
+
+
+table{
+	color: black;
+	position: fixed;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+.a1{
+	color: black;
+	position: fixed;
+	top: 95%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+
+.a2{
+	color: black;
+	position: fixed;
+	top: 98%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.p2{
+	color: black;
+	position: fixed;
+	top: 120%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
